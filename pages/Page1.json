@@ -226,7 +226,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "61c16a1429991d54071720d2",
+              "id": "61c18bf362a39d778f0ac800",
               "name": "Query1",
               "pluginType": "DB",
               "jsonPathKeys": [],
@@ -476,7 +476,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "61c16a1429991d54071720d2",
+              "id": "61c18bf362a39d778f0ac800",
               "name": "Query1",
               "pluginType": "DB",
               "jsonPathKeys": [],
